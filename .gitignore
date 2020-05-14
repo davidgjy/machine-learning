@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+## .gitignore for intellij
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
 # C extensions
 *.so
 
